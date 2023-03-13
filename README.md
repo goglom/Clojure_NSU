@@ -1,2 +1,2 @@
 # Clojure NSU 
-Мои решения задач из курса "Функциональное программирование" от ММФ НГУ 
+"Veeery intresing" and "useful" course from NSU
